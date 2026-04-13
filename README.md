@@ -1,4 +1,4 @@
-# 📊 Global Superstore Sales Dashboard (Excel)
+# 📊 Superstore Sales Analysis Dashboard (Excel)
 ![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
 ![Feature](https://img.shields.io/badge/Feature-Pivot_Analysis-lightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-blue)
@@ -35,7 +35,7 @@ Global Superstore encounters multiple operational challenges, including:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](/images/dashboard.png)
 
 ---
 
